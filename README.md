@@ -157,7 +157,7 @@ A criação inicial do usuário administrador por meio do `IdentitySeeder` é re
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO_PUBLICO
+git clone https://github.com/JulianoFerreiraSilva/ApiFinanceCore.git
 ```
 
 A URL definitiva será adicionada após a publicação.
