@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilação .NET
+**/bin/
+**/obj/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/appsettings.*.local.json
+
+# Bancos de dados locais
+*.db
+*.db-shm
+*.db-wal
